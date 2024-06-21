@@ -1,0 +1,32 @@
+Demo Classes
+------------
+Day-1 https://youtu.be/zqXSeN1sGlU
+Day-2 https://youtu.be/6qo5zdTKzuk
+Day-3 https://youtu.be/GMstKxDWw_U
+Day-4 https://youtu.be/5f1qchdxV9Y
+Day-5 https://youtu.be/yQi49P2pBCg
+Day-6 https://youtu.be/A-mGPShBWL8
+
+
+
+
+
+
+Practice
+--------
+Git Commands :
+=============
+Git --version - To check the current version of Git
+git init -  To Initialize the folder to Git Repositoy
+ls - To See the files inside that particular folder/Repo
+ls -a - To see the hidden files inside the folder/Repo
+touch filename - To create the file in that folder in local level
+vi filename - To edit the text inside the file
+i - To insert the text 
+Press Esc :wq - Save & Exit from the text editing
+cat filename - To see the content inside the file
+git status - status of Repo
+git commit -m(message) - committing the changes 
+git add . - To add the file to Repo
+
+
